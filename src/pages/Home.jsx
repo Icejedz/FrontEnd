@@ -3,8 +3,8 @@ import React from 'react'
 const Home = () => {
   return (
     <>
-      <h1>Welcome to your awesome website!</h1>
-      <p>This is your homepage. Feel free to explore the other pages!</p>
+      <h1>ยินดีต้อนรับสู่เว็บไซต์</h1>
+      <p>หน้านี้คือหน้าหลัก</p>
     </>
   );
 }
